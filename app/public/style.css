@@ -1,5 +1,7 @@
+
+
 @import url(https://fonts.googleapis.com/css?family=opensans:500);
-body{
+.bodyy{
     background: #33cc99;
     color:#fff;
     font-family: 'Open Sans', sans-serif;
@@ -219,4 +221,3 @@ hr:after {
 @-o-keyframes moveclouds {
     0% {margin-left: 1000px;}
     100% {margin-left: -1000px;}
-}
